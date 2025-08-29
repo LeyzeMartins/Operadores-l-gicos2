@@ -2,7 +2,7 @@
 
 int main(){
 
-int a =10, b = 5;
+int a = 10, b = 5;
 
 if (a> 0 &&  b >0)
 {
