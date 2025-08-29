@@ -6,10 +6,10 @@ int a = 10, b = 5;
 
 if (a > 0 || b > 0)
 {
-    printf("Pelo Menos um dos Números Positivos!\n");
+    printf("Pelo Menos um dos Números Positivo!\n");
 }else
 {
-      printf("oS Dois Números São Negativo!\n");
+      printf(" Os Dois Números São Negativo!\n");
 }
 
 
