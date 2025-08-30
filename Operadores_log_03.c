@@ -6,6 +6,9 @@ int main(){
 if (!a) //( 1(a = 0 )
 {
     printf("A Variável (a) é Zero!\n");
+
+    //printf(" a Não e Um Número Positivo.\n")
+    
 }else{
     printf("A variável é Diferente de Zero!\n");
 }
