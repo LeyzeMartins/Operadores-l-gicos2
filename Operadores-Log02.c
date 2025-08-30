@@ -7,12 +7,12 @@ int a = 10, b = 5;   // Operador (|| = OU) vai retorno verdade 1 das condições
 if(a > 0|| b > 0){    
 
 
-  printf("Os Dois Números, São Positivos.\n");
+  printf("Pelo Menos um Dos Número São Positivo.\n");
 
 
 }else{
 
-    printf("Pelo Menos um Dos Número e Negativo.\n");
+    printf("Os Dois Números São Negativo.\n");
 }
 
 
