@@ -24,7 +24,7 @@ if (idade >= 18 && idade <= 30 && altura > 1.70)
 }else{ // Senão (se for falso), ele cai no else:
 
    printf("Você não tem faixa etária e nem estatura adequada .😐\n");
-}
+}  
 
 
 
