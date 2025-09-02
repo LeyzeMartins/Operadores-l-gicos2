@@ -19,11 +19,11 @@ float altura = 1.75;
 if (idade >= 18 && idade <= 30 && altura > 1.70)
 
 {  //se a condição for verdadeira, ele executa o que está dentro do primeiro bloco:
-    printf("Você está na faixa estária e tem estatura adequada😉.\n");
+    printf("Você está na faixa estária e tem estatura adequada.😉\n");
     //
 }else{ // Senão (se for falso), ele cai no else:
 
-   printf("Você não tem faixa etária e nem estatura adequada.\n😐");
+   printf("Você não tem faixa etária e nem estatura adequada .😐\n");
 }
 
 
